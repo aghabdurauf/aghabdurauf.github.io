@@ -1,0 +1,11 @@
+# Executables
+*.exe
+*.exe.old.*
+claude.exe
+claude.exe.old.1767430502808
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
